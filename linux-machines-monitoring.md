@@ -68,7 +68,7 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_FROM = "syedmobile198@gmail.com"
 EMAIL_TO = "syedleather192@gmail.com"
-EMAIL_PASSWORD = "abcd efgh ijkl mnop"  # Gmail App Password (16-digit)
+EMAIL_PASSWORD = "GMAIL APP PASSWORD"  # Gmail App Password EX: "abcd efgh ijkl mnop" (16-digit)
 CHECK_INTERVAL = 30  # seconds
 
 alerted = set()
